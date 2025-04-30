@@ -10,7 +10,7 @@ import io
 load_dotenv()
 
 # Set up the API key
-PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")
+PERPLEXITY_API_KEY = os.getenv("ppk-MqtLtl0KZ9SzscJmX1Bo7Sc2lW709KckviGPFn2RzOaYBlan")
 if not PERPLEXITY_API_KEY:
     PERPLEXITY_API_KEY = st.secrets.get("PERPLEXITY_API_KEY", "")
 
