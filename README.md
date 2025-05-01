@@ -1,4 +1,4 @@
-### Resume-CV-Analyser
+# Resume-CV-Analyser
 > 🚀 Built by [Siddiha](https://github.com/Siddiha) for the **Perplexity API Hackathon**
 
 A smart resume analysis tool built with Streamlit, Python, and Perplexity's Sonar API — perfect for candidates and recruiters who want a competitive edge.
@@ -157,6 +157,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## ❤️ Made with love by [Siddiha](https://github.com/Siddiha)
-```
 
----
