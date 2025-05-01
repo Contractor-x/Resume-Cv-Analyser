@@ -156,5 +156,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-# ❤️ Made with love by [Siddiha](https://github.com/Siddiha)
+#  Made with ❤️ by [Siddiha](https://github.com/Siddiha)
 
